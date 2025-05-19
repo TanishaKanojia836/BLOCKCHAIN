@@ -26,4 +26,5 @@ echo "File 2 content" > myfolder/file2.txt
 19.	in Browser you can directly run this to see the IPFS: https://ipfs.io/ipfs/QmWd9cavD8UGZQcqYBVhZqs2Jure5W9cgxR7S6TC4StfZe
 ![image](https://github.com/user-attachments/assets/1453aa83-41d1-4bb7-9d29-3fdc4ed796f3)
 ![image](https://github.com/user-attachments/assets/e83c6c8a-0c90-471e-a11d-58fdd594a081)
+![image](https://github.com/user-attachments/assets/974d3b9f-e79c-49a6-ae1b-0d75e46cfeaa)
 
